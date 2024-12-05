@@ -1,2 +1,2 @@
 # skripsi-code-learning-web-app
-This is my thesis my project
+This is my thesis project
